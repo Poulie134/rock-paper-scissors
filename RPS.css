@@ -1,0 +1,38 @@
+html{background-color: black;}
+h1{
+    color: white;
+    font-size: 40px;
+    text-align: center;
+}
+h2{
+    color:white;
+    font-size:30px;
+    text-align: center;
+    position:relative;
+    top:20px;
+}
+.image{
+    width: 180px;
+    height: 180px;
+}
+button{
+    background: none;
+}
+.container{
+    display: grid;
+    grid-template-columns: 1fr 1fr 1fr 1fr 1fr;
+}
+p{
+    color: white;
+    font-size: 30px;
+    text-align: center;
+    position:relative;
+    top:20px;
+}
+.endgame{
+    color:white;
+    font-size: 50px;
+    position: relative;
+    top: 50px;
+    text-align: center;
+}
